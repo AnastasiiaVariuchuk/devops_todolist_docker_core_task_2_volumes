@@ -25,7 +25,7 @@ docker run -d \
 
 ### Open in browser:
 
-http://localhost:8080/
+http://localhost:8000/
 
 ### HUB 
 
